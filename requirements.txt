@@ -1,5 +1,6 @@
 typer[all]
 requests
 validators
-emoji-country-flag
+cryptography
 maxminddb-geolite2
+python-whois
