@@ -1,0 +1,5 @@
+typer[all]
+requests
+validators
+emoji-country-flag
+maxminddb-geolite2
